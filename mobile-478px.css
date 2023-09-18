@@ -1,3 +1,4 @@
+@media (max-width: 478px) {
 body {
     font-family: pp mori;
     font-weight: lighter;
@@ -360,4 +361,5 @@ transition: 800ms cubic-bezier(.2,.76,.35,.87)
 a {
   text-decoration: none;
   color: inherit;
+}
 }
